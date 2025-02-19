@@ -14,12 +14,4 @@ print(f"User number / 3  = {division:.2f}")
 
 print("\nMath Library Functions:")
 print(f"Square root of {user_number:.2f} is: {sqrt_value}")
-print(f"Sine of {user_number:.2f} degrees is: {sine_value:.4f}") # Sine formatted to 4 decimal placesprint("\nArithmetic Operations:")
-print(f"User number + 10 = {addition:.2f}")
-print(f"User number - 5  = {subtraction:.2f}")
-print(f"User number * 2  = {multiplication:.2f}")
-print(f"User number / 3  = {division:.2f}")
-
-print("\nMath Library Functions:")
-print(f"Square root of {user_number:.2f} is: {sqrt_value}")
 print(f"Sine of {user_number:.2f} degrees is: {sine_value:.4f}") # Sine formatted to 4 decimal places
